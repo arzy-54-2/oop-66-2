@@ -8,6 +8,8 @@
 
 
 5) git status      | Статус проекта
-6) git add .       |
+6) git add . или путь к файлу       |
 7) git commit -m "name massage"
 8) git push origin master
+9) git restore . или путь к файлу
+9) git reset . или путь к файлу
